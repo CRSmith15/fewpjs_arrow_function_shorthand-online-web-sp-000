@@ -3,3 +3,6 @@ let divide = function() {
 }
 
 let square = (num) => num * num;
+
+
+let add = (x, y) => x + y;
